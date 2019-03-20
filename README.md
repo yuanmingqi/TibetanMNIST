@@ -3,6 +3,8 @@
 </div>
 <h1 align="center">
     藏文手写体数字数据集
+    <br>
+    Tibetan Handwritten Digital Dataset
 </h1>
 
 # **背景描述**
@@ -36,7 +38,7 @@ PulseAI**
 - TibetanMNIST.npz **（每张图像存储为28x28的单通道图像矩阵）**
 - TibetanMNIST.zip
  
-** TibetanMnist.zip文件为原始图像文件，图像文件名的第一个数字为数字类别标签，第二个数字为数字所在纸张标签，第三个数字为纸张标签内的数字序列。**
+**TibetanMnist.zip文件为原始图像文件，图像文件名的第一个数字为数字类别标签，第二个数字为数字所在纸张标签，第三个数字为纸张标签内的数字序列。**
 
  
 * **数据特征及属性**
