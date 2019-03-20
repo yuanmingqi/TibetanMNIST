@@ -32,9 +32,9 @@ PulseAI**
 
  * **文件列表**
 
-1.TibetanMNIST.tfrecords **（每张图像存储为28x28x3的三通道图像矩阵）**
-2.TibetanMNIST.npz **（每张图像存储为28x28的单通道图像矩阵）**
-3.TibetanMNIST.zip
+- TibetanMNIST.tfrecords **（每张图像存储为28x28x3的三通道图像矩阵）**
+- TibetanMNIST.npz **（每张图像存储为28x28的单通道图像矩阵）**
+- TibetanMNIST.zip
  
 ** TibetanMnist.zip文件为原始图像文件，图像文件名的第一个数字为数字类别标签，第二个数字为数字所在纸张标签，第三个数字为纸张标签内的数字序列。**
 
