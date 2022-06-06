@@ -1,6 +1,3 @@
-<div align='center'>
-    <img src= 'https://github.com/Mingqi-Yuan/ADMP/blob/master/example/pulseai_logo.png'>
-</div>
 <h1 align="center">
     藏文手写体数字数据集
     <br>
@@ -13,12 +10,10 @@ MNIST 数据集来自美国国家标准与技术研究所, National Institute of
    
 **——袁明奇、才让先木等**
 
-**PulseAI**
-
 2018年11月27日
 
 # **数据下载**
-[点此下载数据集](https://www.kesci.com/urls/74bacce8)
+[点此下载数据集](https://www.heywhale.com/mw/dataset/5bfe734a954d6e0010683839)
 
 # **数据说明**
 *  **数据文化**
